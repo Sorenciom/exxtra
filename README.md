@@ -5,7 +5,7 @@ descripcion de proyecto
 Es una banca que permite hacer transferencias de dinero ,usando codigos QR al igual qie recibir y 
 almacena datos gracias a su base de datos que lo permite.
 
-Instalacion y uso de la banca 
+Instalacion y uso dddde la banca 
 
 este es [Expo](https://expo.dev) creando con [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
